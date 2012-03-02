@@ -13,7 +13,7 @@ Tartura's agile nature means you're never going to have problems. It's the only 
 As with <a href="//anchorcms.com">anything</a> <a href="//visualidiot.com">I</a> <a href="//typestacks.com">make</a>, it's beautiful. For most people, that'd be obnoxious and arrogant, but this code truly is perfect; it's the zen of CSS.
 
 ## Open to the world
-It's WTPL, so frolick in the fields with Tartura, and it's cool. Just be nice.
+It's <a href="http://sam.zoy.org/wtfpl/">WTFPL</a>, so frolick in the fields with Tartura, and it's cool. Just be nice.
 
 ## Got any questions?
 Although support for this framework is 100% not needed, I do take help/feature requests. Just add 'em to the issue log.
